@@ -3,16 +3,16 @@
 A handheld game console built from scratch, powered by a **Raspberry Pi Pico** and a **Waveshare ST7735 1.8" LCD**, with a custom PCB and its own lightweight C/C++ game framework.
  
 <img src="/pcb/picogameconsole.png" alt="PicoGameConsole PCB" width="800"/>
+
 ## Table of Contents
 - [Overview](#overview)
 - [Software Design](#software-design)
 - [Hardware Design](#hardware-design)
 - [Bill of Materials](#bill-of-materials)
 - [Building the Firmware](#building-the-firmware)
-  - [Prerequisites](#prerequisites)
-  - [Build Commands (MinGW)](#build-commands-mingw)
-  - [Flashing the Pico](#flashing-the-pico)
-- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Build Commands (MinGW)](#build-commands-mingw)
+- [Flashing the Pico](#flashing-the-pico)
 - [Adding Your Own Game](#adding-your-own-game)
 ## Overview
  
