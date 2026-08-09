@@ -38,8 +38,8 @@ The latest revision of the Shamino Console features a custom PCB, which noticeab
 | 2x [12x12mm tact switches](https://botland.store/tact-switch/3663-tact-switch-12x12mm-with-cap-red-mushroom-5pcs-5904422307486.html) | Buttons |
 | [Female headers for Raspberry Pi Pico](https://botland.store/raspberry-pi-pico-accessories/18863-set-of-female-connectors-for-raspberry-pi-pico-5904422328528.html) | Socket for the Pico |
 | [5V 12mm passive buzzer](https://botland.store/buzzers-sound-generators/18290-buzzer-without-generator-5v-1mm-tht-5904422366025.html) | Sound |
-| ~47Ω resistor | - |
-| ~4.7kΩ resistor | - |
+| ~330Ω resistor | - |
+| ~470Ω resistor | - |
 | ~104 ceramic resistor | - |
 | [1x8 goldpin connector](https://botland.store/connectors-goldpin/20031-straight-goldpin-1x40-connector-with-254mm-pitch-black-10pcs-justpi-5904422329198.html) | - |
 | 2x 5mm M3 screws *(optional)* | Mounts the LCD |
